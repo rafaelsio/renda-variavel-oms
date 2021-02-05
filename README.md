@@ -12,3 +12,4 @@ Desenho solução e camadas
 
 Fluxograma
 
+<img src="img/OMS-Camadas-Page-2.png">
