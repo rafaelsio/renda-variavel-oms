@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using RendaVariavel.OMS.Aplicacao.Servicos;
+using RendaVariavel.OMS.Dominio.Entidades;
 using RendaVariavel.OMS.Dominio.Entidades.OrdemCompras;
 using RendaVariavel.OMS.Dominio.Repositorios;
 using RendaVariavel.OMS.Dominio.ServicosExternos;
@@ -44,6 +45,10 @@ namespace RendaVariavel.OMS.Aplicacao.Impl.Servicos
                 if (ordemCompra != null)
                 {
                     await _orderCompraRepositorio.AlterarOrdemCompra(ordemCompra.Id, ordemCompra.Status);
+                    if(ordemCompra.Status == OrdemCompraStatus.EmAnalise)
+                    {
+                        var ordemCompra = _mensageria.EnviarMensagem<OrdemCompra>(Dominio.Entidades.Mensageria.TopicosMensageria.EnvioOrdemParaBolsa, ordemCompra);
+                    }
                 }
             }
         }
@@ -56,6 +61,12 @@ namespace RendaVariavel.OMS.Aplicacao.Impl.Servicos
                 if(ordemCompra!=null)
                 {
                     await _orderCompraRepositorio.RegistrarOrdemCompra(ordemCompra);
+
+                    if (ordemCompra.Status == OrdemCompraStatus.Solicitado)
+                    {
+                        ordemCompra.Status = OrdemCompraStatus.EmAnalise;
+                        var ordemCompra = _mensageria.EnviarMensagem<OrdemCompra>(Dominio.Entidades.Mensageria.TopicosMensageria.AtualizacaoOrdemCompraStatus, ordemCompra);
+                    }
                 } 
             }
         }

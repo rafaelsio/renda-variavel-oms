@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{7FE9E9D3-6D0C-4638-AE2F-5942AC8C9947}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RendaVariavel.OMS.TestesUnitarios/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RendaVariavel.OMS.Dominio/Entidades/OrdensCompras/OrdemCompraStatus.cs">
     <Files>
       <File FileName="RendaVariavel.OMS.Host.Consumidor/RendaVariavel.OMS.Host.Consumidor.csproj" Line="1" Column="1" />
       <File FileName="RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj" />
@@ -18,35 +18,52 @@
       <File FileName="RendaVariavel.OMS.Aplicacao.Impl/Servicos/ConsumidorServico.cs" Line="34" Column="54" />
       <File FileName="RendaVariavel.TestesUnitarios/UnitTest1.cs" Line="13" Column="19" />
       <File FileName="RendaVariavel.OMS.Dominio.Impl/Servicos/MercadoDominoServico.cs" Line="37" Column="1" />
-      <File FileName="RendaVariavel.OMS.Dominio.Impl/Servicos/OrdemCompraDominioServico.cs" Line="14" Column="72" />
+      <File FileName="RendaVariavel.OMS.Dominio.Impl/Servicos/OrdemCompraDominioServico.cs" Line="37" Column="73" />
       <File FileName="RendaVariavel.OMS.Host.Consumidor/Worker.cs" Line="1" Column="1" />
       <File FileName="RendaVariavel.OMS.WebApi/Controllers/OrdemCompraController.cs" Line="41" Column="65" />
       <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/IOrdemCompraServico.cs" Line="10" Column="55" />
       <File FileName="RendaVariavel.OMS.Aplicacao.Impl/Servicos/OrdemCompraServico.cs" Line="55" Column="72" />
       <File FileName="RendaVariavel.OMS.Dominio/Servicos/IOrdemCompraDominioServico.cs" Line="11" Column="60" />
-      <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/ITarefasServico.cs" Line="8" Column="21" />
+      <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/ITarefasServico.cs" Line="6" Column="37" />
       <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/IConsumidorServico.cs" Line="8" Column="9" />
       <File FileName="RendaVariavel.OMS.Dominio/Entidades/Mensageria/TopicosMensageria.cs" Line="6" Column="33" />
-      <File FileName="RendaVariavel.OMS.TestesUnitarios/UnitTest1.cs" Line="7" Column="1" />
+      <File FileName="RendaVariavel.OMS.TestesUnitarios/UnitTest1.cs" Line="22" Column="2" />
+      <File FileName="RendaVariavel.OMS.WebApi/Startup.cs" Line="1" Column="1" />
+      <File FileName="RendaVariavel.OMS.Tarefas/Worker.cs" Line="22" Column="13" />
+      <File FileName="RendaVariavel.OMS.Dominio/Entidades/OrdensCompras/OrdemCompraStatus.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RendaVariavel.OMS" expanded="True">
-            <Node name="1.Host" expanded="True">
-              <Node name="RendaVariavel.OMS.Host.WebApi" expanded="True">
-                <Node name="Controllers" expanded="True" />
+            <Node name="1.Host" expanded="True" />
+            <Node name="2.Aplicação" expanded="True">
+              <Node name="RendaVariavel.OMS.Aplicacao" expanded="True" />
+              <Node name="RendaVariavel.OMS.Aplicacao.Impl" expanded="True">
+                <Node name="Servicos" expanded="True" />
               </Node>
             </Node>
-            <Node name="2.Aplicação" expanded="True" />
             <Node name="3.Dominio" expanded="True">
+              <Node name="RendaVariavel.OMS.Dominio" expanded="True">
+                <Node name="Entidades" expanded="True">
+                  <Node name="OrdensCompras" expanded="True">
+                    <Node name="OrdemCompraStatus.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
               <Node name="RendaVariavel.OMS.Dominio.Impl" expanded="True">
                 <Node name="Servicos" expanded="True" />
               </Node>
             </Node>
             <Node name="4.infraestrutura" expanded="True" />
             <Node name="5.TestesUnitarios" expanded="True">
-              <Node name="RendaVariavel.OMS.TestesUnitarios" expanded="True" selected="True" />
+              <Node name="RendaVariavel.OMS.TestesUnitarios" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                  <Node name="ProjectDependencies" expanded="True" />
+                  <Node name="SdkDependencies" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
