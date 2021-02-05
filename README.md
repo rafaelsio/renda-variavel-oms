@@ -6,6 +6,8 @@ Projeto em .Net core 2.2 utilizando sistemas de mensageria para disparo de event
 Hospedagem pode ser feito tanto no AWS ou AZURE
 usando docker e containers 
 
+Nomenclatura do codigo em portugues pois se trata de uma corretora nacional, com clientes nacionais.
+
 Desenho solução e camadas
 
 <img src="img/OMS-Camadas-Page-1.png">
