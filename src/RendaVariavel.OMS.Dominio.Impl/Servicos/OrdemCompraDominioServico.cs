@@ -51,6 +51,7 @@ namespace RendaVariavel.OMS.Dominio.Impl.Servicos
             {
                 novaOrdemcompra.Status = Entidades.OrdemCompraStatus.Agendado;
             }
+           
 
             return new ResultadoBase<bool>() { Resultado = true };
         }
