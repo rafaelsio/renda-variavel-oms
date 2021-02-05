@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj",
+      "projectUniqueName": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj",
       "projectName": "RendaVariavel.OMS.Aplicacao",
-      "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj",
+      "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj",
       "packagesPath": "/Users/rafael/.nuget/packages/",
-      "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao/obj/",
+      "outputPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Aplicacao/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -74,11 +74,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
-              "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj"
+            "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
+              "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj"
             },
-            "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj": {
-              "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj"
+            "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj": {
+              "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj"
             }
           }
         }

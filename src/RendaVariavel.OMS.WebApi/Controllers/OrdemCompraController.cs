@@ -34,7 +34,7 @@ namespace RendaVariavel.OMS.WebApi
         }
 
         [HttpPost]
-        public async Task<IActionResult> RegistrarOrdemCompra([FromBody] OrdemCompraDTO ordemCompra)
+        public async Task<IActionResult> SolicitarRegistroOrdemCompra([FromBody] OrdemCompraDTO ordemCompra)
         {
             try
             {

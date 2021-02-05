@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nz6sZigmhdqXgV1jBnBXfkR/L9eERIVoYrEBM5WdiSwICkH4NtfUEbnZSNvSfxP0oW4PxsFb9mJGXLy9wIo+Kg==",
+  "dgSpecHash": "dr+Om4nklYmMf6Tp9Bm2auni/7JJVKwd3zhtR9IsPRKbTI8ipaXQwszWxX3ZC5Yj7iPdTIkyEi23JAhLIj644A==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

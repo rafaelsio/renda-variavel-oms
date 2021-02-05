@@ -259,11 +259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj",
+      "projectUniqueName": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj",
       "projectName": "RendaVariavel.OMS.Host.WebApi",
-      "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj",
+      "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj",
       "packagesPath": "/Users/rafael/.nuget/packages/",
-      "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.WebApi/obj/",
+      "outputPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.WebApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -281,14 +281,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj": {
-              "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj"
+            "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj": {
+              "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj"
             },
-            "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
-              "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj"
+            "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
+              "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj"
             },
-            "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.InjecaoDependencia/RendaVariavel.OMS.InjecaoDependencia.csproj": {
-              "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.InjecaoDependencia/RendaVariavel.OMS.InjecaoDependencia.csproj"
+            "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.InjecaoDependencia/RendaVariavel.OMS.InjecaoDependencia.csproj": {
+              "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.InjecaoDependencia/RendaVariavel.OMS.InjecaoDependencia.csproj"
             }
           }
         }

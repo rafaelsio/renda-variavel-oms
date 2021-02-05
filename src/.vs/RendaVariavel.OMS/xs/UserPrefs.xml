@@ -1,48 +1,61 @@
 ﻿<Properties StartupConfiguration="{7FE9E9D3-6D0C-4638-AE2F-5942AC8C9947}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RendaVariavel.OMS.Aplicacao.Impl/Servicos/ConsumidorServico.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RendaVariavel.OMS.TestesUnitarios/UnitTest1.cs">
     <Files>
       <File FileName="RendaVariavel.OMS.Host.Consumidor/RendaVariavel.OMS.Host.Consumidor.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj" Line="16" Column="48" />
-      <File FileName="RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.Aplicacao.Impl/RendaVariavel.OMS.Aplicacao.Impl.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.Dominio.Impl/RendaVariavel.OMS.Dominio.Impl.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.Infraestrutura/RendaVariavel.OMS.Infraestrutura.SqlFake.csproj" Line="1" Column="1" />
-      <File FileName="RendaVariavel.OMS.InjecaoDependencia/RendaVariavel.OMS.InjecaoDependencia.csproj" Line="20" Column="1" />
-      <File FileName="RendaVariavel.OMS.WebApi/Controllers/ClienteController.cs" Line="12" Column="41" />
-      <File FileName="RendaVariavel.OMS.InjecaoDependencia/RegistroDeServico.cs" Line="2" Column="25" />
-      <File FileName="RendaVariavel.OMS.Commum/Helpers/DateTImeHelper.cs" Line="15" Column="38" />
-      <File FileName="RendaVariavel.OMS.Dominio/Entidades/OrdensCompras/OrdemCompra.cs" Line="29" Column="9" />
+      <File FileName="RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj" />
+      <File FileName="RendaVariavel.OMS.Aplicacao/RendaVariavel.OMS.Aplicacao.csproj" />
+      <File FileName="RendaVariavel.OMS.Aplicacao.Impl/RendaVariavel.OMS.Aplicacao.Impl.csproj" />
+      <File FileName="RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj" />
+      <File FileName="RendaVariavel.OMS.Dominio.Impl/RendaVariavel.OMS.Dominio.Impl.csproj" />
+      <File FileName="RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj" />
+      <File FileName="RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj" />
+      <File FileName="RendaVariavel.OMS.Infraestrutura/RendaVariavel.OMS.Infraestrutura.SqlFake.csproj" />
+      <File FileName="RendaVariavel.OMS.InjecaoDependencia/RendaVariavel.OMS.InjecaoDependencia.csproj" />
+      <File FileName="RendaVariavel.OMS.WebApi/Controllers/ClienteController.cs" />
+      <File FileName="RendaVariavel.OMS.InjecaoDependencia/RegistroDeServico.cs" />
+      <File FileName="RendaVariavel.OMS.Commum/Helpers/DateTImeHelper.cs" />
+      <File FileName="RendaVariavel.OMS.Dominio/Entidades/OrdensCompras/OrdemCompra.cs" />
       <File FileName="RendaVariavel.OMS.Aplicacao.Impl/Servicos/ConsumidorServico.cs" Line="34" Column="54" />
+      <File FileName="RendaVariavel.TestesUnitarios/UnitTest1.cs" Line="13" Column="19" />
+      <File FileName="RendaVariavel.OMS.Dominio.Impl/Servicos/MercadoDominoServico.cs" Line="37" Column="1" />
+      <File FileName="RendaVariavel.OMS.Dominio.Impl/Servicos/OrdemCompraDominioServico.cs" Line="14" Column="72" />
+      <File FileName="RendaVariavel.OMS.Host.Consumidor/Worker.cs" Line="1" Column="1" />
+      <File FileName="RendaVariavel.OMS.WebApi/Controllers/OrdemCompraController.cs" Line="41" Column="65" />
+      <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/IOrdemCompraServico.cs" Line="10" Column="55" />
+      <File FileName="RendaVariavel.OMS.Aplicacao.Impl/Servicos/OrdemCompraServico.cs" Line="55" Column="72" />
+      <File FileName="RendaVariavel.OMS.Dominio/Servicos/IOrdemCompraDominioServico.cs" Line="11" Column="60" />
+      <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/ITarefasServico.cs" Line="8" Column="21" />
+      <File FileName="RendaVariavel.OMS.Aplicacao/Servicos/IConsumidorServico.cs" Line="8" Column="9" />
+      <File FileName="RendaVariavel.OMS.Dominio/Entidades/Mensageria/TopicosMensageria.cs" Line="6" Column="33" />
+      <File FileName="RendaVariavel.OMS.TestesUnitarios/UnitTest1.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RendaVariavel.OMS" expanded="True">
-            <Node name="1.Host" expanded="True" />
-            <Node name="2.Aplicação" expanded="True">
-              <Node name="RendaVariavel.OMS.Aplicacao.Impl" expanded="True">
-                <Node name="Servicos" expanded="True">
-                  <Node name="ConsumidorServico.cs" selected="True" />
-                </Node>
+            <Node name="1.Host" expanded="True">
+              <Node name="RendaVariavel.OMS.Host.WebApi" expanded="True">
+                <Node name="Controllers" expanded="True" />
               </Node>
             </Node>
+            <Node name="2.Aplicação" expanded="True" />
             <Node name="3.Dominio" expanded="True">
-              <Node name="RendaVariavel.OMS.Dominio" expanded="True">
-                <Node name="Entidades" expanded="True">
-                  <Node name="OrdensCompras" expanded="True" />
-                </Node>
+              <Node name="RendaVariavel.OMS.Dominio.Impl" expanded="True">
+                <Node name="Servicos" expanded="True" />
               </Node>
             </Node>
             <Node name="4.infraestrutura" expanded="True" />
+            <Node name="5.TestesUnitarios" expanded="True">
+              <Node name="RendaVariavel.OMS.TestesUnitarios" expanded="True" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5.TestesUnitarios.RendaVariavel.OMS.TestesUnitarios FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.1.Host.RendaVariavel.OMS.Host.Consumidor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.Host.RendaVariavel.OMS.Host.Tarefas FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>Easynvest.OrdemBolsa.WebApi/Easynvest.OMS.Host.Servico/Easynvest.OMS.Host.Servico.csproj</String>
@@ -51,7 +64,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/rafael/Projetos/RendaVariavel.OMS/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" relfile="Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" line="1" column="1" />
+      <Breakpoint file="/Users/rafael/Projetos/renda-variavel-oms/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" relfile="Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" line="1" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

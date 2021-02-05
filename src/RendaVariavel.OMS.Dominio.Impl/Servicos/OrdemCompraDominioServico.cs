@@ -16,7 +16,7 @@ namespace RendaVariavel.OMS.Dominio.Impl.Servicos
         private readonly IContaCorrente _contaCorrenteRepositorio;
         private readonly IOrdemCompraRepositorio _ordemCompraRepositorio;
         private readonly IMercadoDominioServico _mercadoDominioServico;
-        private readonly IMensageriaRepositorio _mensageriaRepoSitorio;
+       
 
 
         public OrdemCompraDominioServico(
@@ -29,12 +29,12 @@ namespace RendaVariavel.OMS.Dominio.Impl.Servicos
             _contaCorrenteRepositorio = contaCorrenteRepositorio;
             _ordemCompraRepositorio = ordemCompraRepositorio;
             _mercadoDominioServico = mercadoDominioServico;
-            _mensageriaRepoSitorio = mensageriaRepoSitorio;
+            
 
 
         }
 
-        public async Task<ResultadoBase<bool>> EfetuarRegistroOrdemCompra(Cliente cliente, Produto produto, ContaCorrente contaCorrente, OrdemCompra novaOrdemcompra)
+        public async Task<ResultadoBase<bool>> PermiteEnvioDeOrdemCompra(Cliente cliente, Produto produto, ContaCorrente contaCorrente, OrdemCompra novaOrdemcompra)
         {
             if (!contaCorrente.PossuiSaldoOperacao(novaOrdemcompra.ValorOperacao()))
                 return new ResultadoBase<bool>() { CodigoErro = MensagemErro.OMS_011, Resultado = false, TipoErro = TipoErro.Negocio };
@@ -46,14 +46,11 @@ namespace RendaVariavel.OMS.Dominio.Impl.Servicos
                 return new ResultadoBase<bool>() { CodigoErro = MensagemErro.OMS_013, Resultado = false, TipoErro = TipoErro.Negocio };
 
             //verifica se omercado está aberto para envio da ordem
-            var resultado = await _mercadoDominioServico.PermiteEnvioOrdem(DateTime.Now);
+            var resultado = await _mercadoDominioServico.PermiteEnvioOrdem(novaOrdemcompra.DataOperacao);
             if (!resultado.Resultado)
             {
                 novaOrdemcompra.Status = Entidades.OrdemCompraStatus.Agendado;
             }
-
-            await _mensageriaRepoSitorio.EnviarMensagem<OrdemCompra>(TopicosMensageria.SolicitacaoEnvioOrdem, novaOrdemcompra);
-
 
             return new ResultadoBase<bool>() { Resultado = true };
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Na71hvuG16QVHZRRg5s0E5+JJPDaj8t6DqENh1EzwgGDZaSZVhcs9N9iv2CRho/bdSsToiiAdEJ60/Vl+FThkA==",
+  "dgSpecHash": "YAh9hy08cPXG+zSf8OjMYxAtukBPEAFBlKNVVXdapC4xfcUd+BlVao/0uhCN6/ge6vHPHXSd/mqat1/Uego1QQ==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.WebApi/RendaVariavel.OMS.Host.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/rafael/.nuget/packages/bogus/32.1.1/bogus.32.1.1.nupkg.sha512",
     "/Users/rafael/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",

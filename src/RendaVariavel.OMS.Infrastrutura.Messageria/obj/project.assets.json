@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj",
+      "projectUniqueName": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj",
       "projectName": "RendaVariavel.OMS.Infraestrutura.Messageria",
-      "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj",
+      "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj",
       "packagesPath": "/Users/rafael/.nuget/packages/",
-      "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/",
+      "outputPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

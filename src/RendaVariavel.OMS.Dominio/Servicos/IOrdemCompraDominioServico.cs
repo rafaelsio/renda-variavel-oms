@@ -8,6 +8,6 @@ namespace RendaVariavel.OMS.Dominio.Servicos
 {
     public interface IOrdemCompraDominioServico
     {
-        Task<ResultadoBase<bool>> EfetuarRegistroOrdemCompra(Cliente cliente, Produto produto, ContaCorrente contaCorrente, OrdemCompra novaOrdemcompra);
+        Task<ResultadoBase<bool>> PermiteEnvioDeOrdemCompra(Cliente cliente, Produto produto, ContaCorrente contaCorrente, OrdemCompra novaOrdemcompra);
     } 
 }

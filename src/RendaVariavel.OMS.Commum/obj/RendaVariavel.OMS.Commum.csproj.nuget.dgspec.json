@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {}
+    "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {}
   },
   "projects": {
-    "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
+    "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj",
+        "projectUniqueName": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj",
         "projectName": "RendaVariavel.OMS.Commum",
-        "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj",
+        "projectPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj",
         "packagesPath": "/Users/rafael/.nuget/packages/",
-        "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/obj/",
+        "outputPath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Commum/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

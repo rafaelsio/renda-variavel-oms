@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "40s3OxmqRp7G5uA5FzgIdH2N7QOgCOVGev1jgIrCSSK86nlXUrw8mHzSXhJ6zQaRMcxB/0WpdF08AkJqjvvKtQ==",
+  "dgSpecHash": "EIadXPXlCuT6ZSMsm/+o1FpvS7os/x98v+ZiAaVFfFaRTLpbBb8n1qk8vcWF6bsrviThWNo0JMtftoe69WA9UA==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Infrastrutura.Messageria/RendaVariavel.OMS.Infraestrutura.Messageria.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "RendaVariavel.OMS.Tarefas": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

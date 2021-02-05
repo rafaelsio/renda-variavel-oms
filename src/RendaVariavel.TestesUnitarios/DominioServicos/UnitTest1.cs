@@ -3,12 +3,14 @@ using Xunit;
 
 namespace RendaVariavel.TestesUnitarios
 {
-    public class UnitTest1
+    public class OrdemCompra
     {
+        
         [Fact]
-        public void Test1()
+        public void NaoPermiteEnvioDeOrdemEmFeriado()
         {
 
+            Assert
         }
     }
 }

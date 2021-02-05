@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "coY0GfoTgYI30Nm998i/PcUpw6/QgILjDaIWm5+n1QM7yGA0iUJdu6LrCnYVVBY32V9FYLVhlfZctgAF6z9nxA==",
+  "dgSpecHash": "tbvg/Zzj/grDL/FA0yzo8NiZOWl2jwDdFKmwsTio7gG5RTy/rXYPittUSFejFiG8b0qUM8Tnp/nWUYl7etiFjQ==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infraestrutura/RendaVariavel.OMS.Infraestrutura.SqlFake.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Infraestrutura/RendaVariavel.OMS.Infraestrutura.SqlFake.csproj",
   "expectedPackageFiles": [
     "/Users/rafael/.nuget/packages/bogus/32.1.1/bogus.32.1.1.nupkg.sha512"
   ],

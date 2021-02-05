@@ -3,7 +3,7 @@ namespace RendaVariavel.OMS.Dominio.Entidades.Mensageria
 {
     public enum TopicosMensageria
     {
-        SolicitacaoEnvioOrdem,
+        SolicitacaoRegistroOrdem,
         AtualizacaoOrdemCompraStatus,
         EnvioOrdemParaBolsa
     }

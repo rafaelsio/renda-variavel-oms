@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "18y7VbBFBz9mF9E4YRcy7xfFHjT3OzPtY9USVo9CoRrWnsa2cZmbJ+42S5cP064UIFkod9bKr8F3/cGWsdRoEA==",
+  "dgSpecHash": "5r0N3T/BinIDnwRzVxfYOl1W5ziwSYtA6h0nsYDm210Rgd/pdJaRo/ag52gms5MjvnxBDDsPiPt40MDHaFb+6A==",
   "success": true,
-  "projectFilePath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Host.Consumidor/RendaVariavel.OMS.Host.Consumidor.csproj",
+  "projectFilePath": "/Users/rafael/Projetos/renda-variavel-oms/src/RendaVariavel.OMS.Host.Consumidor/RendaVariavel.OMS.Host.Consumidor.csproj",
   "expectedPackageFiles": [
     "/Users/rafael/.nuget/packages/bogus/32.1.1/bogus.32.1.1.nupkg.sha512",
     "/Users/rafael/.nuget/packages/microsoft.extensions.configuration/3.1.10/microsoft.extensions.configuration.3.1.10.nupkg.sha512",

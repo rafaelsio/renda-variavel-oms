@@ -12,4 +12,12 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DominioServicos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RendaVariavel.OMS.Dominio\RendaVariavel.OMS.Dominio.csproj" />
+    <ProjectReference Include="..\RendaVariavel.OMS.InjecaoDependencia\RendaVariavel.OMS.InjecaoDependencia.csproj" />
+    <ProjectReference Include="..\RendaVariavel.OMS.Aplicacao\RendaVariavel.OMS.Aplicacao.csproj" />
+  </ItemGroup>
 </Project>
