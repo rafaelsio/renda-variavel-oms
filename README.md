@@ -6,7 +6,7 @@ Projeto em .Net core 2.2 utilizando sistemas de mensageria para disparo de event
 Hospedagem pode ser feito tanto no AWS ou AZURE
 usando docker e containers 
 
-Nomenclatura do codigo em portugues pois se trata de uma corretora nacional, com clientes nacionais.
+Nomenclatura do codigo em portugues, pois se trata de uma corretora nacional, com clientes nacionais e também facilita a comunicação com negocio e o time técnico.
 
 Desenho solução e camadas
 
