@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "RendaVariavel.OMS.Host.Consumidor": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

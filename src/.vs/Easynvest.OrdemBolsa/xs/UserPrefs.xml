@@ -1,0 +1,77 @@
+﻿<Properties StartupConfiguration="{169587B3-F6AB-4DEC-9A2E-56F1499FC92F}|Easynvest.OrdemCompra.WebApi">
+  <MonoDevelop.Ide.ItemProperties.1.Host.Easynvest.OrdemBolsa.WebApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Easynvest.OrdemBolsa.Dominio/Modelos/Produtos/Produto.cs">
+    <Files>
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Modelos/Clientes/Cliente.cs" Line="1" Column="15" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Modelos/Clientes/ClienteRepositorio.cs" Line="18" Column="28" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Modelos/OrdensCompras/IOrdemCompraServico.cs" Line="7" Column="84" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Modelos/OrdensCompras/OrdemCompra.cs" Line="3" Column="15" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Modelos/OrdensCompras/OrdemCompraStatus.cs" Line="1" Column="15" />
+      <File FileName="EasyInvest.OrdemBolsa.InjecaoDependencia/RegistroDeServico.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao.Impl/Servicos/ClienteServico.cs" Line="6" Column="37" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao.Impl/Servicos/OrdemCompraServico.cs" Line="42" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Servicos/IClienteServico.cs" Line="9" Column="16" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/DataStore.cs" Line="6" Column="46" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Controllers/ClienteController.cs" Line="26" Column="75" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Controllers/OrdemCompraController.cs" Line="13" Column="30" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Program.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Startup.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IClienteRepositorio.cs" Line="4" Column="15" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IOrdemCompraRepositorio.cs" Line="3" Column="15" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IProdutoRepositorio.cs" Line="4" Column="15" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/Repositorios/OrdemCompraRepositorio.cs" Line="20" Column="46" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/Repositorios/ProdutoRepositorio.cs" Line="6" Column="59" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Controllers/ProdutoController.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/DTOs/ClienteDTO.cs" Line="10" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Mappers/Cliente.cs" Line="1" Column="9" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Modelos/Produtos/Produto.cs" Line="1" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Easynvest.OrdemBolsa" expanded="True">
+            <Node name="1.Host" expanded="True">
+              <Node name="Easynvest.OrdemBolsa.WebApi" expanded="True" />
+            </Node>
+            <Node name="2.Aplicação" expanded="True">
+              <Node name="Easynvest.OrdemBolsa.Aplicacao" expanded="True">
+                <Node name="DTOs" expanded="True" />
+                <Node name="Mappers" expanded="True" />
+              </Node>
+              <Node name="Easynvest.OrdemBolsa.Aplicacao.Impl" expanded="True">
+                <Node name="Servicos" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="3.Dominio" expanded="True">
+              <Node name="Easynvest.OrdemBolsa.Dominio" expanded="True">
+                <Node name="Modelos" expanded="True">
+                  <Node name="Clientes" expanded="True" />
+                  <Node name="OrdensCompras" expanded="True" />
+                  <Node name="Produtos" expanded="True">
+                    <Node name="Produto.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Repositorios" expanded="True" />
+              </Node>
+              <Node name="Easynvest.OrdemBolsa.Dominio.Impl" expanded="True" />
+            </Node>
+            <Node name="4.infraestrutura" expanded="True">
+              <Node name="Easynvest.OrdemBolsa.Infraestrutura.Sql" expanded="True">
+                <Node name="Repositorios" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="5.InjecaoDepencia" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4.infraestrutura.Easynvest.OrdemBolsa.Infraestrutura.Sql FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5.InjecaoDepencia.EasyInvest.OrdemBolsa.InjecaoDependencia FirstBuild="True" />
+</Properties>

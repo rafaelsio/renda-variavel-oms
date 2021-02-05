@@ -1,0 +1,12 @@
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/bin/Debug/netstandard2.1/Easynvest.OMS.Dominio.deps.json
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/bin/Debug/netstandard2.1/Easynvest.OMS.Dominio.dll
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/bin/Debug/netstandard2.1/Easynvest.OMS.Dominio.pdb
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/bin/Debug/netstandard2.1/Easynvest.OMS.Commum.dll
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/bin/Debug/netstandard2.1/Easynvest.OMS.Commum.pdb
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.csprojAssemblyReference.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.AssemblyInfo.cs
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.csproj.CoreCompileInputs.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.csproj.CopyComplete
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.dll
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/Debug/netstandard2.1/Easynvest.OMS.Dominio.pdb

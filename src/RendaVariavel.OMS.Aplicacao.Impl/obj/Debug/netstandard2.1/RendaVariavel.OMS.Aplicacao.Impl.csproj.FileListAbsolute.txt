@@ -1,0 +1,4 @@
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao.Impl/obj/Debug/netstandard2.1/RendaVariavel.OMS.Aplicacao.Impl.csprojAssemblyReference.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao.Impl/obj/Debug/netstandard2.1/RendaVariavel.OMS.Aplicacao.Impl.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao.Impl/obj/Debug/netstandard2.1/RendaVariavel.OMS.Aplicacao.Impl.AssemblyInfo.cs
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Aplicacao.Impl/obj/Debug/netstandard2.1/RendaVariavel.OMS.Aplicacao.Impl.csproj.CoreCompileInputs.cache

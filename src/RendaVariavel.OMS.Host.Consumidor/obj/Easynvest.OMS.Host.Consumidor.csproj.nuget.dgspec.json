@@ -1,0 +1,518 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OMS.Host.Consumidor/Easynvest.OMS.Host.Consumidor.csproj": {}
+  },
+  "projects": {
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/EasyInvest.OrdemBolsa.InjecaoDependencia/Easynvest.OMS.InjecaoDependencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/EasyInvest.OrdemBolsa.InjecaoDependencia/Easynvest.OMS.InjecaoDependencia.csproj",
+        "projectName": "Easynvest.OMS.InjecaoDependencia",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/EasyInvest.OrdemBolsa.InjecaoDependencia/Easynvest.OMS.InjecaoDependencia.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/EasyInvest.OrdemBolsa.InjecaoDependencia/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao.Impl/Easynvest.OMS.Aplicacao.Impl.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao.Impl/Easynvest.OMS.Aplicacao.Impl.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio.Impl/Easynvest.OMS.Dominio.Impl.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio.Impl/Easynvest.OMS.Dominio.Impl.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Infraestrutura.SqlFake.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Infraestrutura.SqlFake.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OMS.Host.Consumidor/Easynvest.OMS.Host.Consumidor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OMS.Host.Consumidor/Easynvest.OMS.Host.Consumidor.csproj",
+        "projectName": "Easynvest.OMS.Host.Consumidor",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OMS.Host.Consumidor/Easynvest.OMS.Host.Consumidor.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OMS.Host.Consumidor/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/EasyInvest.OrdemBolsa.InjecaoDependencia/Easynvest.OMS.InjecaoDependencia.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/EasyInvest.OrdemBolsa.InjecaoDependencia/Easynvest.OMS.InjecaoDependencia.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao.Impl/Easynvest.OMS.Aplicacao.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao.Impl/Easynvest.OMS.Aplicacao.Impl.csproj",
+        "projectName": "Easynvest.OMS.Aplicacao.Impl",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao.Impl/Easynvest.OMS.Aplicacao.Impl.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao.Impl/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj",
+        "projectName": "Easynvest.OMS.Aplicacao",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/Easynvest.OMS.Aplicacao.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Aplicacao/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj"
+              },
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio.Impl/Easynvest.OMS.Dominio.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio.Impl/Easynvest.OMS.Dominio.Impl.csproj",
+        "projectName": "Easynvest.OMS.Dominio.Impl",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio.Impl/Easynvest.OMS.Dominio.Impl.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio.Impl/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj",
+        "projectName": "Easynvest.OMS.Dominio",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj",
+        "projectName": "Easynvest.OMS.Commum",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Easynvest.OMS.Commum.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Infraestrutura.SqlFake.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Infraestrutura.SqlFake.csproj",
+        "projectName": "Easynvest.OMS.Infraestrutura.SqlFake",
+        "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Infraestrutura.SqlFake.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj": {
+                "projectPath": "/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Dominio/Easynvest.OMS.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[32.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

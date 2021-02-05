@@ -1,0 +1,12 @@
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.csprojAssemblyReference.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.AssemblyInfo.cs
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.csproj.CoreCompileInputs.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/bin/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.deps.json
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/bin/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.dll
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/bin/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.pdb
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/bin/Debug/netstandard2.1/RendaVariavel.OMS.Commum.dll
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/bin/Debug/netstandard2.1/RendaVariavel.OMS.Commum.pdb
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.csproj.CopyComplete
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.dll
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/Debug/netstandard2.1/RendaVariavel.OMS.Dominio.pdb

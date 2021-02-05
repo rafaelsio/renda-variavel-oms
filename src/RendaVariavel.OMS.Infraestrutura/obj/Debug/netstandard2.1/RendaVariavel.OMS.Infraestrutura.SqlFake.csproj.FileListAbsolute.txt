@@ -1,0 +1,4 @@
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infraestrutura/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.SqlFake.csprojAssemblyReference.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infraestrutura/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.SqlFake.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infraestrutura/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.SqlFake.AssemblyInfo.cs
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infraestrutura/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.SqlFake.csproj.CoreCompileInputs.cache

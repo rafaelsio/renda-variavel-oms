@@ -1,0 +1,8 @@
+﻿/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/bin/Debug/netstandard2.1/RendaVariavel.OMS.Commum.deps.json
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/bin/Debug/netstandard2.1/RendaVariavel.OMS.Commum.dll
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/bin/Debug/netstandard2.1/RendaVariavel.OMS.Commum.pdb
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/obj/Debug/netstandard2.1/RendaVariavel.OMS.Commum.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/obj/Debug/netstandard2.1/RendaVariavel.OMS.Commum.AssemblyInfo.cs
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/obj/Debug/netstandard2.1/RendaVariavel.OMS.Commum.csproj.CoreCompileInputs.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/obj/Debug/netstandard2.1/RendaVariavel.OMS.Commum.dll
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/RendaVariavel.OrdemBolsa.Infraestrutura/RendaVariavel.OMS.Commum/obj/Debug/netstandard2.1/RendaVariavel.OMS.Commum.pdb

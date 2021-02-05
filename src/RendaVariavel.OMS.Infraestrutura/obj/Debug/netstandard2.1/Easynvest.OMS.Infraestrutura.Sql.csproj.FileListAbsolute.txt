@@ -1,0 +1,4 @@
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/obj/Debug/netstandard2.1/Easynvest.OMS.Infraestrutura.Sql.csprojAssemblyReference.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/obj/Debug/netstandard2.1/Easynvest.OMS.Infraestrutura.Sql.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/obj/Debug/netstandard2.1/Easynvest.OMS.Infraestrutura.Sql.AssemblyInfo.cs
+/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/obj/Debug/netstandard2.1/Easynvest.OMS.Infraestrutura.Sql.csproj.CoreCompileInputs.cache

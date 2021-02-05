@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio.Impl/RendaVariavel.OMS.Dominio.Impl.csproj": {}
+  },
+  "projects": {
+    "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj",
+        "projectName": "RendaVariavel.OMS.Commum",
+        "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio.Impl/RendaVariavel.OMS.Dominio.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio.Impl/RendaVariavel.OMS.Dominio.Impl.csproj",
+        "projectName": "RendaVariavel.OMS.Dominio.Impl",
+        "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio.Impl/RendaVariavel.OMS.Dominio.Impl.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio.Impl/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj": {
+                "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj",
+        "projectName": "RendaVariavel.OMS.Dominio",
+        "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/RendaVariavel.OMS.Dominio.csproj",
+        "packagesPath": "/Users/rafael/.nuget/packages/",
+        "outputPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafael/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj": {
+                "projectPath": "/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Commum/RendaVariavel.OMS.Commum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

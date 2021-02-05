@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Easynvest.OMS.Dominio.Impl/1.0.0": {
+        "dependencies": {
+          "Easynvest.OMS.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Easynvest.OMS.Dominio.Impl.dll": {}
+        }
+      },
+      "Easynvest.OMS.Commum/1.0.0": {
+        "runtime": {
+          "Easynvest.OMS.Commum.dll": {}
+        }
+      },
+      "Easynvest.OMS.Dominio/1.0.0": {
+        "dependencies": {
+          "Easynvest.OMS.Commum": "1.0.0"
+        },
+        "runtime": {
+          "Easynvest.OMS.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Easynvest.OMS.Dominio.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Easynvest.OMS.Commum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Easynvest.OMS.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

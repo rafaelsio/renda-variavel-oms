@@ -1,0 +1,80 @@
+﻿<Properties StartupConfiguration="{169587B3-F6AB-4DEC-9A2E-56F1499FC92F}|Easynvest.OrdemCompra.WebApi">
+  <MonoDevelop.Ide.ItemProperties.1.Host.Easynvest.OMS.Host.Consumidor FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Easynvest.OrdemBolsa.WebApi/Controllers/ProdutoController.cs">
+    <Files>
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao.Impl/Servicos/OrdemCompraServico.cs" Line="50" Column="66" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Servicos/IOrdemCompraDominioServico.cs" Line="11" Column="44" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Servicos/IOrdemCompraServico.cs" Line="10" Column="75" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao.Impl/Servicos/ClienteServico.cs" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Agregados/Clientes/ClienteContaCorrente.cs" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IClienteRepositorio.cs" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Constantes/MensagemErro.cs" Line="32" Column="10" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IProdutoRepositorio.cs" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Mapeadores/OrdemCompra.cs" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio.Impl/Servicos/OrdemCompraDominioServico.cs" Line="46" Column="18" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Entidades/OrdensCompras/OrdemCompra.cs" Line="33" Column="10" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Constantes/Geral.cs" Line="13" Column="46" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/ObjetosDeValor/Endereco.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Servicos/IMercadoDominioService.cs" Line="10" Column="38" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio.Impl/Servicos/MercadoDominoServico.cs" Line="38" Column="13" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" Line="7" Column="31" />
+      <File FileName="EasyInvest.OrdemBolsa.InjecaoDependencia/RegistroDeServico.cs" Line="26" Column="67" />
+      <File FileName="Easynvest.OMS.Infrastrutura.Messageria/Class1.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IMensageriaRepositorio.cs" Line="11" Column="17" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Entidades/Mensageria/TopicosMensageria.cs" Line="8" Column="28" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Entidades/OrdensCompras/OrdemCompraStatus.cs" Line="9" Column="21" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Controllers/OrdemCompraController.cs" Line="25" Column="13" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Entidades/Produtos/Produto.cs" Line="11" Column="33" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/DTOs/ClienteDTO.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/DTOs/OrdemCompraDTO.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/DTOs/ProdutoDTO.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao.Impl/Servicos/ConsumidorService.cs" Line="23" Column="61" />
+      <File FileName="Easynvest.OMS.Host.Consumidor/Worker.cs" Line="32" Column="71" />
+      <File FileName="Easynvest.OMS.Host.Consumidor/Program.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Infraestrutura/Repositorios/OrdemCompraRepositorio.cs" Line="34" Column="35" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/Repositorios/IOrdemCompraRepositorio.cs" Line="7" Column="22" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Servicos/IClienteServico.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Servicos/IProdutoServico.cs" Line="1" Column="1" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Controllers/ClienteController.cs" Line="44" Column="79" />
+      <File FileName="Easynvest.OrdemBolsa.Aplicacao/Servicos/IConsumidorServico.cs" Line="12" Column="45" />
+      <File FileName="Easynvest.OrdemBolsa.Dominio/ServicosExternos/IBolsaServicoExterno.cs" Line="7" Column="42" />
+      <File FileName="Easynvest.OrdemBolsa.WebApi/Controllers/ProdutoController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Easynvest.OMS" expanded="True">
+            <Node name="1.Host" expanded="True" />
+            <Node name="2.Aplicação" expanded="True">
+              <Node name="Easynvest.OMS.Aplicacao.Impl" expanded="True">
+                <Node name="Servicos" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="3.Dominio" expanded="True">
+              <Node name="Easynvest.OMS.Dominio" expanded="True">
+                <Node name="Entidades" expanded="True">
+                  <Node name="Mensageria" expanded="True" />
+                </Node>
+                <Node name="ServicosExternos" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="4.infraestrutura" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Easynvest.OrdemBolsa.WebApi/Easynvest.OMS.Host.Servico/Easynvest.OMS.Host.Servico.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.1.Host.Easynvest.OMS.Host.WebApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rafael/Projetos/easynvest-ordem-bolsa/src/Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" relfile="Easynvest.OrdemBolsa.Infraestrutura/Easynvest.OMS.Commum/Helpers/DateTImeHelper.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4.infraestrutura.Easynvest.OMS.Infraestrutura.Messageria FirstBuild="True" />
+</Properties>

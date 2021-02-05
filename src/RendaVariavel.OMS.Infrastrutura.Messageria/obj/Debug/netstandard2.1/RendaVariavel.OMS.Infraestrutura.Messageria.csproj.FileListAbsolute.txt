@@ -1,0 +1,8 @@
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/bin/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.deps.json
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/bin/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.dll
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/bin/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.pdb
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.AssemblyInfo.cs
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.csproj.CoreCompileInputs.cache
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.dll
+/Users/rafael/Projetos/RendaVariavel.OMS/src/RendaVariavel.OMS.Infrastrutura.Messageria/obj/Debug/netstandard2.1/RendaVariavel.OMS.Infraestrutura.Messageria.pdb
